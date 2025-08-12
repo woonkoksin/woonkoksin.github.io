@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Elected as a Member of the <a href="https://globalyoungacademy.net/" target="_blank">Global Young Academy</a>.
+Elected as a member of the <a href="https://globalyoungacademy.net/" target="_blank">Global Young Academy</a>.
