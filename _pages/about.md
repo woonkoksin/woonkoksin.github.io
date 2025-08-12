@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I advance transformative resilience in climate and environmental sustainability by integrating AI-driven and systems-analytical approaches to address the environment–economy–society nexus.
+I advocate for advancing transformative resilience in climate and environmental sustainability. My work integrates AI-driven and systems-analytical approaches on issues related to the environment-economic-social well-being nexus.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
