@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: |
   Assistant Professor, The Hong Kong University of Science and Technology (Guangzhou)<br>  
-  Adjunct Associate Professor, Xiamen University Malaysia<br><br> 
+  Adjunct Associate Professor, Xiamen University Malaysia<br>
 
 profile:
   align: right
