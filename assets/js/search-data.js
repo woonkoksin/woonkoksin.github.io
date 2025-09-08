@@ -410,11 +410,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-elected-as-a-member-of-the-global-young-academy",
+            },},{id: "news-elected-as-a-member-of-the-global-young-academy",
           title: 'Elected as a member of the Global Young Academy',
+          description: "",
+          section: "News",},{id: "news-awarded-the-frontiers-planet-prize-2025-national-champion-malaysia",
+          title: 'Awarded the Frontiers Planet Prize 2025 National Champion (Malaysia)',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
