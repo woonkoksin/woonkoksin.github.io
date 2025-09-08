@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: |
   Assistant Professor, The Hong Kong University of Science and Technology (Guangzhou)<br>  
-  Adjunct Associate Professor, Xiamen University Malaysia<br><br><br>
+  Adjunct Associate Professor, Xiamen University Malaysia<br><br>
 
 profile:
   align: right
@@ -29,8 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am dedicated to advancing transformative resilience in the context of climate and environmental sustainability. My work integrates artificial intelligence, sustainable processes, and systems-analytical approaches to address issues at the environment-economy-society nexus. Currently, I supervise or co-supervise 17 postgraduate students (5 Ph.D. and 12 Master), and have guided 7 graduates.
+I advocate for achieving transformative resilience in the context of climate and environmental sustainability. I am passionate about adopting AI models with sustainable processes and systems-analytical approaches on issues related to the environment-economic-social well-being nexus. Currently, I am currently supervising/co-supervising 17 postgraduate students (5 Ph.D. and 12 Master), and 7 postgraduate students have graduated under my supervision. 
 
-I have authored 87 refereed journal articles, including 55 in SCI Q1 journals and 3 recognized as ESI Top 1% Highly Cited Papers. My publications appear in Science, Renewable and Sustainable Energy Reviews, and Resources, Conservation & Recycling. A cover article in Science highlights my work on climate sustainability as sole corresponding author.
+I have authored 87 articles in international refereed journals, with 45 as the sole first or corresponding author. 55 articles are published in SCI Q1 journals, including Science, Renewable and Sustainable Energy Reviews, and Resources, Conservation & Recycling. 3 papers have been selected as ESI Top 1% Highly Cited Papers.
 
-Between 2019 and 2025, I secured 21 international and national grants and consultancy projects totaling USD 1.12 million, and I have delivered plenary, keynote, and invited talks at over 30 international conferences and professional forums.
+Between 2019 and 2025, I received 21 international and national grants and consultancy works, totaling USD 1.12 million. I received several prestigious international awards, including National Champion (Malaysia) for Frontiers Planet Prize, American Chemical Society (ACS) I&ECR Influential Researchers, UN Summer Academy Fellow, UNFCCC-GIR-CASTT Scholar, Vebleo Fellow (Jr), Fulbright Young Leader under the U.S.'s government signature program - YSEALI, and CrossCulture Programme Fellow by the German Federal Foreign Office.
