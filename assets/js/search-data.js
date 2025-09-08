@@ -405,12 +405,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-joined-hkust-gz-carbon-neutrality-and-climate-change-cncc-thrust-as-assistant-professor",
+          title: 'Joined HKUST(GZ) Carbon Neutrality and Climate Change (CNCC) Thrust as Assistant Professor',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-elected-as-a-member-of-the-global-young-academy",
+          section: "News",},{id: "news-elected-as-a-member-of-the-global-young-academy",
           title: 'Elected as a member of the Global Young Academy',
           description: "",
           section: "News",},{id: "news-awarded-the-frontiers-planet-prize-2025-national-champion-malaysia",
