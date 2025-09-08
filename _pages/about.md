@@ -29,10 +29,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I advocate for advancing transformative resilience in climate and environmental sustainability. My work integrates AI-driven and systems-analytical approaches on issues related to the environment-economic-social well-being nexus.
+I am dedicated to advancing transformative resilience in the context of climate and environmental sustainability. My work integrates artificial intelligence, sustainable processes, and systems-analytical approaches to address issues at the environment–economy–society nexus.  
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Currently, I supervise or co-supervise 17 postgraduate students (5 Ph.D. and 12 Master), and 7 students have successfully graduated under my supervision.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have published 87 papers in international refereed journals, with 45 as sole first or corresponding author. Among these, 55 papers appear in SCI Q1 journals (Top 25% by Clarivate JCR), including *Science*, *Renewable and Sustainable Energy Reviews*, *Resources, Conservation & Recycling*, *Journal of Cleaner Production*, and *Science of the Total Environment*. Three papers are recognized as ESI Top 1% Highly Cited Papers. Together with my Master’s student, I published an original research article in *Science* as a cover paper in the field of climate sustainability, where I served as the sole corresponding author.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Between 2019 and 2025, I have received 21 international and national grants and consultancy projects, totaling USD 1.12 million.  
+
+I have also delivered plenary, keynote, and invited talks at more than 30 international conferences and professional events.  
