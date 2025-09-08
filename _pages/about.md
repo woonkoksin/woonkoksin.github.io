@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: |
-  Assistant Professor @ The Hong Kong University of Science and Technology (Guangzhou)  
+  Assistant Professor @ The Hong Kong University of Science and Technology (Guangzhou)<br>  
   Adjunct Associate Professor @ Xiamen University Malaysia
 
 profile:
