@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: |
+  Assistant Professor @ The Hong Kong University of Science and Technology (Guangzhou)  
+  Adjunct Associate Professor @ Xiamen University Malaysia
 
 profile:
   align: right
