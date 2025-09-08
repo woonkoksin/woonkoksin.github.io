@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /group/
 title: group
-description: ''
+description: ""
 nav: true
 nav_order: 7
 
@@ -25,4 +25,3 @@ profiles:
       <p>WANG Yan</p>
       <p>On-going PhD, HKUST(GZ)</p>
       <p>Sept 2025 – Present</p>
----
