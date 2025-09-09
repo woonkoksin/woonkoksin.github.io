@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined HKUST(GZ) Carbon Neutrality and Climate Change (CNCC) Thrust as Assistant Professor
+Joined <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST(GZ)</a> Carbon Neutrality and Climate Change (CNCC) Thrust as Assistant Professor
