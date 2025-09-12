@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I advocate for achieving transformative resilience in the context of climate and environmental sustainability. I am passionate about adopting AI models with sustainable processes and systems-analytical approaches on issues related to the `environment-economic-social well-being` nexus. Currently, I am currently supervising/co-supervising 17 postgraduate students (5 Ph.D. and 12 Master), and 7 postgraduate students have graduated under my supervision.
+Hi! I advocate for achieving transformative resilience in the context of climate and environmental sustainability. I am passionate about adopting AI models with sustainable processes and systems-analytical approaches on issues related to the `environment-economic-social well-being` nexus. Currently, I am currently supervising/co-supervising 17 postgraduate students (5 Ph.D. and 12 Master), and 7 postgraduate students have graduated under my supervision.
 
 I have authored `87` articles in international refereed journals, with 45 as the sole first or corresponding author. 55 articles are published in SCI Q1 journals, including [Science](https://www.science.org/), [Renewable and Sustainable Energy Reviews](https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews), and [Resources, Conservation & Recycling](https://www.sciencedirect.com/journal/resources-conservation-and-recycling). 3 papers have been selected as ESI Top 1% Highly Cited Papers.
 
