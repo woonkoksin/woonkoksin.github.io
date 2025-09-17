@@ -8,11 +8,10 @@ nav_order: 3
 
 
 1. **Digital Twins of Solid Waste Management for Net-Zero Development**
-   - *Funding Source:* Hong Kong University of Science and Technology (Guangzhou)
-   - *Period:* 2025–2030
-   - *Role:* Project leader
-
+   - Funding Source: Hong Kong University of Science and Technology (Guangzhou)
+   - Period: 2025–2030
+   - Role: Project leader
 2. **Global Emissions Reduction toward Achieving Paris Agreement and Net-Zero Pledge**
-   - *Funding Source:* Xiamen University Malaysia
-   - *Period:* 2024–2027
-   - *Role:* Project leader
+   - Funding Source: Xiamen University Malaysia
+   - Period: 2024–2027
+   - Role: Project leader
