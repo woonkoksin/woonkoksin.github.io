@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Total amount: USD 1,125.66  Total amount as project leader: USD 959,771",
+          description: "Total amount: USD 1,125,660Total amount as project leader: USD 959,771",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
