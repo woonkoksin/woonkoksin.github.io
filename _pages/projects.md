@@ -6,7 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-
 1. **Digital Twins of Solid Waste Management for Net-Zero Development**
    - Funding Source: Hong Kong University of Science and Technology (Guangzhou)
    - Period: 2025–2030
