@@ -1,9 +1,9 @@
----
+<img width="432" height="22" alt="image" src="https://github.com/user-attachments/assets/d9a48fc6-8ec8-4390-b664-6c2ea0a5dd46" />---
 layout: page
 title: projects
 permalink: /projects/
 description: |
-  Total amount: USD 1,125.66  
+  Total amount: USD 1,125,660
   Total amount as project leader: USD 959,771
 nav: true
 nav_order: 3
