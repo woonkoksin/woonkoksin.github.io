@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "87 articles in total, with 45 as the first or corresponding author.55 articles are published in SCI Q1 journals, with 30 as the sole first or corresponding author.",
+          description: "87 articles in total, with 45 as the first or corresponding author55 articles are published in SCI Q1 journals, with 30 as the sole first or corresponding author",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
