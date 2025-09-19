@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Total amount: USD 1,125,660<br>Total amount as project leader: USD 959,771
+description: "Total amount: USD 1,125,660<br>Total amount as project leader: USD 959,771"
 nav: true
 nav_order: 3
 ---
