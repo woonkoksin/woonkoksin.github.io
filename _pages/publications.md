@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 87 articles in total, with 45 as the first or corresponding author.<br>55 articles are published in SCI Q1 journals, with 30 as the sole first or corresponding author.
+description: 87 articles in total, with 45 as the first or corresponding author<br>55 articles are published in SCI Q1 journals, with 30 as the sole first or corresponding author
 nav: true
 nav_order: 2
 ---
