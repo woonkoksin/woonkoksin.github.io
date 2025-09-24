@@ -7,6 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+**HKUST(GZ):**
+IPEN6100E(L01) Life Cycle Assessment: From Theory to Application, 2025 Fall, Instructor
+IPEN5400/CNCC5200(L01) Climate Change: Science and Governance, 2025Spring, 2025 Fall, Co-Instructor
