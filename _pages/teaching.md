@@ -8,8 +8,8 @@ nav_order: 6
 ---
 
 **HKUST(GZ):**
-- IPEN6100E (L01) - Life Cycle Assessment: From Theory to Application, 2025 Fall, Graduate module, Instructor  
-- IPEN5400/CNCC5200 (L01) - Climate Change: Science and Governance, 2025 Spring, 2025 Fall, Graduate module, Co-Instructor<br>
+- IPEN6100E(L01) Life Cycle Assessment: From Theory to Application, 2025 Fall, Graduate module, Instructor  
+- IPEN5400/CNCC5200(L01) Climate Change: Science and Governance, 2025 Spring, 2025 Fall, Graduate module, Co-Instructor<br>
 
 **XMUM:**
 - G0356 Carbon Management for Sustainable Environment, 2020-2025, Undergraduate module, Instructor
