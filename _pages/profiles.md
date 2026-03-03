@@ -23,6 +23,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>WANG Yan</p>
-      <p>On-going PhD, HKUSTGZ</p>
+      <p>PhD student, HKUSTGZ</p>
       <p>Sept 2025 – Present</p>
 ---
