@@ -25,4 +25,12 @@ profiles:
       <p>WANG Yan</p>
       <p>PhD student, HKUSTGZ</p>
       <p>Sept 2025 – Present</p>
+  - align: left
+    image: prof_pic.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>WANG Yan</p>
+      <p>PhD student, HKUSTGZ</p>
+      <p>Sept 2025 – Present</p>
 ---
