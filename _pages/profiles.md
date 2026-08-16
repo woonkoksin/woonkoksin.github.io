@@ -4,7 +4,7 @@ permalink: /group/
 title: group
 description: ""
 nav: true
-nav_order: 7
+nav_order: 8
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -14,8 +14,9 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>4.	Phuang Zhen Xin</p>
+      <p>Phuang Zhen Xin</p>
       <p>PhD student, HKUSTGZ</p>
+      <p>Aug 2026 – Present</p>
   - align: left
     image: prof_pic.jpg
     content: 1minyee.md
