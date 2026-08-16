@@ -1,4 +1,4 @@
----
+<img width="432" height="22" alt="image" src="https://github.com/user-attachments/assets/eb761433-f272-48c7-b207-42e07a12cca5" />---
 layout: profiles
 permalink: /group/
 title: group
@@ -11,11 +11,11 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: 2zhenxin.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Phuang Zhen Xin</p>
-      <p>PhD student, HKUSTGZ</p>
+      <p>Postdoctoral researcher, HKUSTGZ</p>
       <p>Aug 2026 – Present</p>
   - align: left
     image: prof_pic.jpg
