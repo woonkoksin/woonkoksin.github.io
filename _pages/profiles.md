@@ -1,4 +1,4 @@
-<img width="432" height="22" alt="image" src="https://github.com/user-attachments/assets/eb761433-f272-48c7-b207-42e07a12cca5" />---
+---
 layout: profiles
 permalink: /group/
 title: group
